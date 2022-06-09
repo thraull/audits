@@ -40,7 +40,7 @@ jobs:
           # Default is true, can set to false to only get PDF files
           build_html: false
           table_of_contents: true
-          highlight_theme: styles/github_dark_dimmed.css
+          highlight_theme: 'styles/github_dark_dimmed.css'
       - uses: actions/upload-artifact@v1
         with:
           name: docs

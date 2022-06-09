@@ -1,8 +1,3 @@
----
-title: 'yAcademy Olympus Bond review'
-disqus: yAcademy
----
-
 yAcademy Olympus Bond review
 ===
 
