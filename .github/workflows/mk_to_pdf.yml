@@ -11,6 +11,7 @@ on:
     paths:
       - 'docs/**.md'
       - 'docs/images/**'
+      - '.github/workflows/mk_to_pdf.yml'
   workflow_dispatch:
     inputs:
       logLevel:
